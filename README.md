@@ -11,15 +11,15 @@ YouTube Data Harvesting and Warehousing" initiative aims to develop an intuitive
 6. Data Collection
 
 **Install Required Libraries:**
-'''bash
-pip install google-api-python-client
-pip install pymongo
-pip install psycopg2
-pip install pandas
-pip install plotly
-pip install streamlit
-pip install streamlit-option-menu
-'''
+
+      pip install google-api-python-client
+      pip install pymongo
+      pip install psycopg2
+      pip install pandas
+      pip install plotly
+      pip install streamlit
+      pip install streamlit-option-menu
+
 
 **Key Features of the Project:**
 
