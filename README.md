@@ -1,5 +1,6 @@
 # YouTube-Data-Harvesting-and-Warehousing
 **Introduction:**
+
 YouTube Data Harvesting and Warehousing" initiative aims to develop an intuitive Streamlit application, harnessing the capabilities of the Google API to extract valuable insights from various YouTube channels. The acquired data is then stored in a MongoDB database, subsequently transferred to a SQL data warehouse. This transformation facilitates accessibility for analysis and exploration, providing users with a seamless experience within the Streamlit application.
 
 **Key Technologies:**
